@@ -1,0 +1,13 @@
+{
+    "env": [
+        "PYTHONHOME=D:/Code Environment/anaconda3/envs/houdini",
+        "PYTHONPATH=D:/Code Environment/anaconda3/envs/houdini/Lib/site-packages",
+        "HOUDINI_DISABLE_FORCED_SITE_PACKAGES=1",
+        "HOUDINI_DISABLE_BUILTIN_PYTHON_PACKAGES=1",
+        "HOUDINI_PYTHON_VERSION=3.11",
+        "PATH=D:/Code Environment/anaconda3/envs/houdini/Library/bin;D:/Code Environment/anaconda3/envs/houdini/Scripts;$PATH"
+    ],
+    "enable": true,
+    "name": "conda_houdini",
+    "version": "1.0"
+}
